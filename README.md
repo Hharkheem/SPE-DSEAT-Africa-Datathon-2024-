@@ -3,7 +3,7 @@
 **Author**: Hakeem Salifu  
 **SPE Number**: 5554170  
 **Category**: Student  
-**Affiliation**: [Your University Name]  
+**Affiliation**: [KNUST]  
 **Course of Study**: Petroleum Engineering  
 **Date**: July 2024
 
@@ -48,7 +48,7 @@ The approach follows a complete ML workflow:
 |----------|-------------|
 | `Hakeem_Salifu_2024_DSEATS_Datathon_5554170.ipynb` | Jupyter notebook containing full ML pipeline |
 | `Hakeem_Salifu_2024_DSEATS_Datathon_5554170.csv` | Final predicted production results (oil, gas, water) |
-| `Hakeem_Salifu_2024_DSEATS_Datathon_5554170.pptx` | Presentation summarizing methodology and results |
+
 
 ---
 
@@ -72,12 +72,6 @@ No AI-assisted techniques (ChatGPT, Gemini, etc.) were used in the model develop
 - Demonstrate practical knowledge of data science in the oil & gas domain.
 - Provide accurate production predictions for oil, gas, and water.
 - Showcase competency in applying ML to reservoir engineering tasks.
-
----
-
-## 📧 Submission Details
-
-All required files were submitted via email to `speafricadseat@gmail.com` before the deadline of **13 July 2024, 11:59PM WAT** using the required naming and formatting conventions.
 
 ---
 
