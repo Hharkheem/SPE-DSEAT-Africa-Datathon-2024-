@@ -3,7 +3,7 @@
 **Author**: Hakeem Salifu  
 **SPE Number**: 5554170  
 **Category**: Student  
-**Affiliation**: [KNUST]  
+**Affiliation**: KNUST  
 **Course of Study**: Petroleum Engineering  
 **Date**: July 2024
 
